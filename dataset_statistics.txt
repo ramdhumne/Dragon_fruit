@@ -1,0 +1,23 @@
+Dataset Statistics
+
+Classes:
+Anthracnose
+BrownSpot_Early
+Healthy
+StemCanker
+Stress
+
+Number of Images Per Class:
+Anthracnose : 68
+BrownSpot_Early : 74
+Healthy : 96
+StemCanker : 122
+Stress : 38
+
+Total Images : 398
+
+Image Resolution:
+512 x 512 pixels
+
+File Format:
+JPEG
